@@ -1,0 +1,16 @@
+h1 {
+    color: #763200;
+    text-align: center;
+}
+
+body {
+    background-color:#f5fbc3;
+}
+
+.im-moving {
+    text-align: left;
+}
+
+.im-moving-again {
+    text-align: right;
+}
